@@ -1,6 +1,6 @@
 # 光头强的自我介绍  
 
-<img src="https://example.com/path/to/guangtouqiang.jpg" width="200" alt="光头强形象">  
+<img src="https://github.com/caiwenshen123/GitDemo/blob/master/images/R-C.jpg" width="200" alt="光头强形象">  
 
 大家好，我是**光头强**，我的身份是*森林中的伐木工*。以下是我的自我介绍：  
 
@@ -47,8 +47,8 @@ print(np.array([1,2,3])** 2)
 
 我最喜欢的环境管理工具是conda
 
-<img src="https://github.com/caic6/GitDemo/blob/main/images/bde.png" width="800" alt="截图一">
+<img src="https://github.com/caiwenshen123/GitDemo/blob/master/images/tu2.png" width="800" alt="截图一">
 
 我可以在IDE上使用我建立的虚拟环境
 
-<img src="https://github.com/caic6/GitDemo/blob/main/images/def.png" width="800" alt="截图二">
+<img src="https://github.com/caiwenshen123/GitDemo/blob/master/images/tu1.png" width="800" alt="截图二">
