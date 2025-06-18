@@ -164,4 +164,10 @@ print(tfidf_vectorizer.get_feature_names_out())  # 输出特征词汇
 3. 查看分类结果和模型评估报告
 
 ## 示例运行结果
+<img src="https://github.com/caiwenshen123/GitDemo/blob/master/images/test 4-1.png." width="800" alt="截图一">
 
+## 样本平衡处理
+<img src="https://github.com/caiwenshen123/GitDemo/blob/master/images/test 4-2.png." width="800" alt="截图二">
+
+## 增加模型评估指标
+<img src="https://github.com/caiwenshen123/GitDemo/blob/master/images/test 4-3.png." width="800" alt="截图三">
